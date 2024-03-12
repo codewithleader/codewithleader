@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elis Antonio Perez (the leader)</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithleader&label=Profile%20views&color=0e75b6&style=flat" alt="codewithleader" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithleader" alt="codewithleader" /></a> </p>
-
 - 🔭 I’m currently working on [IncubApp Venture Capital](https://www.linkedin.com/company/incubapp/mycompany/)
 
 - 🌱 I’m currently learning **Amazon Web Services**
@@ -29,3 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithleader&show_icons=true&locale=en&layout=compact" alt="codewithleader" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithleader&" alt="codewithleader" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithleader&label=Profile%20views&color=0e75b6&style=flat" alt="codewithleader" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithleader" alt="codewithleader" /></a> </p>
